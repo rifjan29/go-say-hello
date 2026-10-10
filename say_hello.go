@@ -4,5 +4,5 @@ import "fmt"
 
 func SayHello(name string) {
 	//afaf
-	fmt.Println("Hello ", name)
+	fmt.Println("Hello say hello dong.. ", name)
 }
